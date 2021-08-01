@@ -14,9 +14,9 @@ class TableViewCell: UITableViewCell {
     @IBOutlet weak var dateRecord: UILabel!
     @IBOutlet weak var recordingTag: UIButton!
     
+    // MARK:- Function
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
         
         inspirationCard.layer.cornerRadius = 10
         recordingTag.layer.cornerRadius = 5
