@@ -3,7 +3,7 @@
 //  Ezpiration
 //
 //  Created by Raka Mantika on 01/08/21.
-//
+//  Copyrigth Rakaman
 //
 
 import Foundation
